@@ -20,6 +20,8 @@ public class App {
             System.out.println(superheroe.getNombre()+", "+superheroe.getPoderPpal()+ ", "+superheroe.getNivelDePoder()+ ", " + superheroe.getColorDelDisfraz());
         }
 
+        System.out.println("Mensaje añadido para probar el control de cambios");
+
         System.out.println("Proyecto creado y Clase de héroes");
 
         //Instancio un objeto de la clase superheroe
