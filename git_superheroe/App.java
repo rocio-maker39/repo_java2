@@ -27,7 +27,7 @@ public class App {
         //Instancio un objeto de la clase superheroe
         Superheroe rayoVeloz = new Superheroe("RAYO VELOZ","Súper velocidad",85,"amarillo"); //El héroe favorito de Mercedes
 
-        System.out.println(“>Epi: ¡Hola Blas!”);
+        System.out.println(">Epi: ¡Hola Blas!\\n>Blas: ¡Hola Epi!");
 
         Superheroe wonderWoman = new Superheroe("WONDER WOMEN","Súper fuerza", 2, "rosa");
 
